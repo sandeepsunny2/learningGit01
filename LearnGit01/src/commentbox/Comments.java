@@ -7,6 +7,7 @@ public class Comments {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello, I am new to Git");
+		//adding 2nd commit
 	}
 
 }
